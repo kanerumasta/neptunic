@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Rowdies-Bold.ttf",
+      "sha1": "febaeb3ad737aae56f4db17b1303471a305872a5"
+    },
+    {
+      "path": "assets/fonts/Rowdies-Light.ttf",
+      "sha1": "c20a32b1a8b59f0f6d167bff53c9eda05fc87976"
+    },
+    {
+      "path": "assets/fonts/Rowdies-Regular.ttf",
+      "sha1": "2f7b1ab72139c78cfe7abbd49fab9b1bebf44d57"
+    }
+  ]
+}
